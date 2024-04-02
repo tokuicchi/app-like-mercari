@@ -23,7 +23,7 @@ export default function App() {
           閲覧した商品からのおすすめ
         </h2>
         <Products
-          productsMaster={earringsProductsMaster}
+          productsMaster={sneakersProductsMaster}
           favoriteCodes={favoriteCodes}
           changeFavorite={changeFavorite}
         />
